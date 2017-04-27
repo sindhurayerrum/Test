@@ -7,6 +7,7 @@ public class demogitclass {
       System.out.println("my first commit");
 
       System.out.println("my second commit");
+ System.out.println("First pull from my remote to local repo");
       
 	}
 
