@@ -7,6 +7,7 @@ public class demo1 {
 		System.out.println("My first commit..");
 		System.out.println("My second commit..");
 		System.out.println("First pull from my remote to local repository");
+		System.out.println("second pull from my remote to local repository");
 		
 
 	}
