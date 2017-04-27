@@ -6,6 +6,7 @@ public class demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("My first commit..");
 		System.out.println("My second commit..");
+		System.out.println("First pull from my remote to local repository");
 		
 
 	}
